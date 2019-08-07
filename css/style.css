@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: "Nexa";
-  src: url(fonts/nexa/nexalight.ttf);
+  src: url(../fonts/nexa/nexalight.ttf);
 }
 @font-face {
   font-family: "Nexa Bold";
-  src: url(fonts/nexa/nexabold.ttf);
+  src: url(../fonts/nexa/nexabold.ttf);
 }
 
 h1 {
